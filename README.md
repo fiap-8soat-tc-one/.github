@@ -10,15 +10,15 @@ O objetivo deste repositório é servir como um ponto central para nossos projet
 
 A Pós Tech em Software Architecture da FIAP é um curso de especialização que visa formar profissionais aptos a projetar e desenvolver arquiteturas de software robustas, escaláveis e eficientes. A seguir, destaco os principais aspectos desse curso:
 
-## Objetivos
+### Objetivos
 - **Formação de Arquitetos de Software**: Capacitar profissionais para atuar como arquitetos de software, capazes de criar soluções tecnológicas avançadas.
 - **Práticas e Padrões de Arquitetura**: Ensinar práticas recomendadas e padrões de arquitetura de software.
 - **Decisões Estratégicas**: Preparar os alunos para tomar decisões estratégicas no desenvolvimento de sistemas.
 
-## Público-Alvo
+### Público-Alvo
 - Profissionais de TI, desenvolvedores de software, engenheiros de software, analistas de sistemas e gerentes de projetos que buscam aprofundar seus conhecimentos em arquitetura de software.
 
-## Conteúdo Programático
+### Conteúdo Programático
 - **Fundamentos de Arquitetura de Software**: Conceitos básicos e importância da arquitetura de software.
 - **Padrões de Arquitetura**: Inclui Microservices, SOA (Service-Oriented Architecture), e Event-Driven Architecture.
 - **Qualidade de Software**: Princípios de design, práticas de qualidade e técnicas de refatoração.
@@ -26,19 +26,19 @@ A Pós Tech em Software Architecture da FIAP é um curso de especialização que
 - **Segurança e DevOps**: Práticas de segurança em arquitetura e integração com DevOps.
 - **Cloud Computing**: Arquitetura para a nuvem, cobrindo plataformas como AWS, Azure e Google Cloud.
 
-## Metodologia
+### Metodologia
 - **Aulas Práticas**: Projetos e estudos de caso reais.
 - **Laboratórios e Workshops**: Aplicação prática dos conceitos aprendidos.
 - **Professores Experientes**: Instrutores com vasta experiência no mercado de TI.
 
-## Duração e Modalidade
+### Duração e Modalidade
 - **Duração**: Aproximadamente um ano.
 - **Modalidade**: Pode ser presencial ou online, conforme a oferta do semestre.
 
-## Certificação
+### Certificação
 - **Certificado**: Pós-graduação lato sensu em Arquitetura de Software.
 
-## Benefícios
+### Benefícios
 - **Excelência em Tecnologia**: A FIAP é reconhecida por sua excelência em cursos de tecnologia.
 - **Formação Sólida**: Alinhada com as demandas do mercado, proporcionando uma formação robusta e prática.
 
