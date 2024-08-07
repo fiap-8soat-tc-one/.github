@@ -1,4 +1,4 @@
-# FIAP Pós Tech - Software Architecture Team
+# FIAP Pós Tech - Software Architecture Team 32
 
 Bem-vindo ao repositório da nossa organização no GitHub! Somos uma equipe de estudantes da Pós Tech em Software Architecture na FIAP. Este espaço é dedicado ao desenvolvimento de projetos, troca de conhecimento e colaboração entre os membros da nossa turma.
 
